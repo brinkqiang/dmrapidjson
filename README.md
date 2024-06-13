@@ -26,6 +26,5 @@ dmrapidjson
 ```cpp
 ```
 ## Contacts
-[![Join the chat](https://badges.gitter.im/brinkqiang/dmrapidjson/Lobby.svg)](https://gitter.im/brinkqiang/dmrapidjson)
 
 ## Thanks
